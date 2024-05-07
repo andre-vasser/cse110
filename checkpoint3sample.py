@@ -7,7 +7,6 @@ Purpose: Practice using mathematical expressions.
 
 age = int(input("How old are you? "))
 next_year_age = age + 1
-print(f"On your next birthday, you will be {next_year_age}.")
 
 # Note that we could do the addition right in the display if we wanted:
 print(f"On your next birthday, you will be {age + 1}.")
